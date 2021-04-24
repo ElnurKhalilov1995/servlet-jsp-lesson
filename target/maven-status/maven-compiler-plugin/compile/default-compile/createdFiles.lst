@@ -1,0 +1,6 @@
+dao/DbConnection.class
+com/mycompany/servlet/ptoject/MyServlet.class
+com/mycompany/servlet/ptoject/ClientDetails.class
+com/mycompany/servlet/ptoject/entity/Client.class
+com/mycompany/servlet/ptoject/SecondServlet.class
+com/mycompany/servlet/ptoject/HtmlServlet.class
